@@ -1,0 +1,7 @@
+# Compiled binaries
+sha256
+sha256_mpi
+sha256_openmp
+
+# Test data
+testdata.bin
