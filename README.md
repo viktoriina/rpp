@@ -4,13 +4,15 @@
 
 ## Benchmarks
 
+Hashing 1 GB data:
+
 ```bash
 ⚡ Benchmarking OpenMP SHA256:
-        6.14 real         5.52 user         0.28 sys
+        6.66 real         6.15 user         0.55 sys
 
 ⚡ Benchmarking MPI SHA256:
-        0.62 real         0.40 user         0.05 sys
+        0.84 real         1.32 user         0.28 sys
 
 ⚡ Benchmarking SHA256:
-       11.45 real        10.93 user         0.19 sys
+       12.37 real        12.13 user         0.20 sys
 ```
